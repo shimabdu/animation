@@ -1,0 +1,179 @@
+.div1 {
+    width: 250px;
+    height: 100px;
+    padding: 10px;
+    animation-name: task;
+    animation-duration: 5s ;
+    position: absolute;
+    animation-delay: 1s;
+    animation-fill-mode:forwards;
+}
+@keyframes task {
+    0% {
+        left: 0 ; 
+    }
+  
+    100% {
+
+        left: 1100px; 
+    }
+}
+
+/* //////////////////////////////////////////////////////////////////////////////// */
+.div2 {
+    width: 250px;
+    height: 100px;
+    animation-name: task1;
+    animation-duration: 5s ;
+    position: absolute;
+    animation-delay: 5s;
+    animation-fill-mode:forwards;
+    right: 0;
+    padding-right: 0%;
+    margin-top: 120px;
+}
+@keyframes task1 {
+    0% {
+        right: 0 ; 
+    }
+    100% {
+        right: 1100px;  
+    }
+}
+/* ////////////////////////////////////////////////////// */
+.div3 {
+    width: 200px;
+    height: 80px;
+    padding: 10px;
+    animation-name: task;
+    animation-duration: 5s ;
+    position: absolute;
+    animation-delay: 10s;
+    animation-fill-mode:forwards;
+    margin-top: 240px;
+
+}
+@keyframes task {
+    0% {
+        left: 0 ; 
+    }
+   
+    100% { 
+        left: 1100px;
+    
+    }
+}
+/* ////////////////////////////////////////////////////// */
+.div4 {
+    width: 250px;
+    height: 100px; 
+    animation-name: task1;
+    animation-duration: 5s ;
+    position: absolute;
+    animation-delay: 15s;
+    animation-fill-mode:forwards;
+    right: 0;
+    padding-right: 0%;
+    margin-top: 360px;
+
+}
+@keyframes task1 {
+    0% {
+        right: 0 ; 
+    } 
+    100% { 
+        right: 1100px;
+    }
+}
+/* ////////////////////////////////////////////////////// */
+.div5 {
+    width: 250px;
+    height: 100px;
+    padding: 10px; 
+    animation-name: task;
+    animation-duration:5s ;
+    position: absolute;
+    animation-delay: 20s;
+    animation-fill-mode:forwards;
+    margin-top: 480px;
+
+
+}
+@keyframes task {
+    0% {
+        left: 0 ; 
+    }
+    100% {  
+        left: 1100px;
+    }
+}
+/* //////////////////////////////////////////////// */
+.div6 {
+    width: 250px;
+    height: 100px; 
+    animation-name: task1;
+    animation-duration: 5s ;
+    position: absolute;
+    animation-delay: 25s;
+    animation-fill-mode:forwards;
+    right: 0;
+    padding-right: 0%;
+    margin-top: 600px;
+}
+@keyframes task1 {
+    0% {
+        right: 0 ; 
+    }
+    100% {
+      
+        right: 1100px; 
+    }
+}
+/* ////////////////////////////////////////////////////// */
+.div7{
+    width: 250px;
+    height: 100px;
+    padding: 10px; 
+    animation-name: task;
+    animation-duration: 5s ;
+    position: absolute;
+    animation-delay: 30s;
+    animation-fill-mode:forwards;
+    margin-top: 720px;
+
+}
+@keyframes task {
+    0% {
+        left: 0 ; 
+    }
+
+    100% {
+       
+        left: 1100px; 
+    }
+}
+/* /////////////////////////////////////////////////////// */
+.div8 {
+    width: 250px;
+    height: 100px; 
+    animation-name: task1;
+    animation-duration: 5s ;
+    position: absolute;
+    animation-delay: 35s;
+    animation-fill-mode:forwards;
+    right: 0;
+    padding-right: 0%;
+    margin-top: 840px;
+}
+@keyframes task1 {
+    0% {
+        right: 0 ; 
+    }
+
+    100% {
+       
+        right: 1100px;
+        
+    }
+}
+/* ////////////////////////////////////////////////////// */
